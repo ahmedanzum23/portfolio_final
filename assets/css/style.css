@@ -7,12 +7,14 @@
     --color-base2: #022a30;
     --color-brand: #e0f780;
     --color-brand2: #deff58;
+    
     --sidbar-width: 240px;
     --font-base: "Bai Jamjuree";
 }
 
 body {
-    background-color: var(--color-base2);
+     background-color: var(--color-base2); 
+    /* background-color: #000000; */
     color: var(--color-body);
     font-family: var(--font-base), sans-serif;
 }
