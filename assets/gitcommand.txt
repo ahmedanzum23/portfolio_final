@@ -1,6 +1,6 @@
 git init
 git add README.md
-git commit -m "second"
+git commit -m "fourth"
 git branch -M main
 git remote add origin https://github.com/ahmedanzum23/portfolio_final.git
 git push -u origin main
